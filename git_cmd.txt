@@ -5,3 +5,7 @@ git commit -m "  "
 rm <file>
 git restore <file>
 git rm --cache <file>  
+git remote -v
+git remote set-url origin https://PAT@SaiSamarth59.git
+git push origin master
+git pull origin master
