@@ -1,7 +1,7 @@
-def m_function():
-    a=5
-    b=5
+def my_function():
 
-    return d
+    a = 5
+    return a
 
-m_function()
+
+my_function()
